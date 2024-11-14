@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wcarrillod
+- 👋 Hi, I’m @wcarrillod, but you can call me Walter
 - 👀 I’m interested in Data Governance por public services
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Integrated Planning based on data
